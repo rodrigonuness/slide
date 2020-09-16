@@ -1,0 +1,27 @@
+    #slide{
+        width: 40em;
+        height: 21em;
+        background-size: 100%;
+    }
+    #div{
+        margin-top: 5em;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    ul{
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    li{
+        display: inline-block;
+        width: 1em;
+        height: 1em;
+        background-color: blueviolet;
+        border-radius: 5px;
+        margin: 4px;
+        cursor: pointer;
+        border-spacing: 4px;
+    }
